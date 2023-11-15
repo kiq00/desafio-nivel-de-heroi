@@ -21,7 +21,7 @@ else if(experiencia >8000 && experiencia <=9000){
     nivel = "Ascendente"
 }
 else if(experiencia >9000 && experiencia <=10000){
-    nivel = "Pimortal"
+    nivel = "Imortal"
 }
 else if(experiencia >10000){
     nivel = "Radiante"
